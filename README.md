@@ -18,4 +18,105 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviraj21a&show_icons=true&locale=en" alt="raviraj21a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj21a&" alt="raviraj21a" /></p>
+<p><img align="center" src="https://media.licdn.com/dms/image/v2/D4E03AQEotVkV7HmNRw/profile-displayphoto-shrink_200_200/B4EZkdkEFSGUAY-/0/1757137618097?e=1764201600&v=beta&t=1JLJemxWLGv-6QlQ359QR0OYSpMsXNEFGC8khRt2B1U" alt="raviraj21a" /></p>
+<!-- 🌟 Personal GitHub Profile Portfolio (Works in README.md) -->
+<div align="center">
+
+
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFcynAkWZCNdg/profile-displaybackgroundimage-shrink_200_800/B4EZld0y7xKQAU-/0/1758215746973?e=1764201600&v=beta&t=bozXv4LyuU7EFKFCWX1G4vgEeKcVnJiehEAp_mkk95A" width="100%" height="10%" alt="profile banner">
+
+---
+
+### 🎯 About Me
+<p align="center">
+🌱 Data Science| DSA (Python & C++) | Web Designer & Frontend Developer (HTML, CSS, JavaScript, Bootstrap) | Skilled in DBMS (MySQL,SQL) | Passionate About AI & Machine Learning | Open to Internships & Opportunities
+💬 Ask me about <b>HTML, CSS, JavaScript, and DBMS</b><br>
+⚡ Fun fact: <b>I love coding and helping others!</b>
+</p>
+
+---
+
+### 🧠 Languages and Tools
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><b>HTML</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br><b>CSS</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/><br><b>Bootstrap</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br><b>GitHub</b>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 My Work
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="100%">
+</td>
+<td>
+<ul>
+<li>🌐 Designed responsive websites</li>
+<li>💻 Built interactive UI using CSS</li>
+<li>📱 Worked with Bootstrap Grid system</li>
+<li>⚙️ Practiced clean code and structure</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+<a href="mailto:ravi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 💼 Projects
+| Project | Description | Link |
+|----------|--------------|------|
+| 🌐 Portfolio | Personal responsive website | [View](https://github.com/Raviraj21r/portfolio) |
+| 💾 DBMS Mini Project | Student Record System | [View](https://github.com/Raviraj21r/dbms-project) |
+| ⚙️ OS Simulation | Process Scheduling | [View](https://github.com/Raviraj21r/os-simulator) |
+
+---
+
+### 🧩 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raviraj21r&show_icons=true&theme=tokyonight" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviraj21r&layout=compact&theme=tokyonight" height="150">
+</p>
+
+---
+
+### 🧠 Quote of the Day
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+
+---
+
+### ❤️ Thank You
+<p align="center">
+Made with 💖 by <b>Ravi Kumar</b><br>
+<a href="https://github.com/Raviraj21r">Visit my GitHub Profile</a>
+</p>
+
+</div>
