@@ -18,22 +18,22 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviraj21a&show_icons=true&locale=en" alt="raviraj21a" /></p>
 
-<p><img align="center" src="https://media.licdn.com/dms/image/v2/D4E03AQEotVkV7HmNRw/profile-displayphoto-shrink_200_200/B4EZkdkEFSGUAY-/0/1757137618097?e=1764201600&v=beta&t=1JLJemxWLGv-6QlQ359QR0OYSpMsXNEFGC8khRt2B1U" alt="raviraj21a" /></p>
+
 <!-- 🌟 Personal GitHub Profile Portfolio (Works in README.md) -->
 <div align="center">
 
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFcynAkWZCNdg/profile-displaybackgroundimage-shrink_200_800/B4EZld0y7xKQAU-/0/1758215746973?e=1764201600&v=beta&t=bozXv4LyuU7EFKFCWX1G4vgEeKcVnJiehEAp_mkk95A" width="100%" height="10%" alt="profile banner">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFcynAkWZCNdg/profile-displaybackgroundimage-shrink_200_800/B4EZld0y7xKQAU-/0/1758215746973?e=1764201600&v=beta&t=bozXv4LyuU7EFKFCWX1G4vgEeKcVnJiehEAp_mkk95A" width="100%" height="5%" alt="profile banner">
 
 ---
 
-### 🎯 About Me
-<p align="center">
-🌱 Data Science| DSA (Python & C++) | Web Designer & Frontend Developer (HTML, CSS, JavaScript, Bootstrap) | Skilled in DBMS (MySQL,SQL) | Passionate About AI & Machine Learning | Open to Internships & Opportunities
-💬 Ask me about <b>HTML, CSS, JavaScript, and DBMS</b><br>
-⚡ Fun fact: <b>I love coding and helping others!</b>
-</p>
+<h2 style="color:#64ffda;text-align:center;margin-top:40px;">🌟 About Me</h2>
+
+<div style="background:#112240;padding:20px;border-radius:15px;margin-top:10px;box-shadow:0 0 10px rgba(100,255,218,0.2);text-align:center;">
+<p>💻 🌱 Data Science| DSA (Python & C++) | Web Designer & Frontend Developer (HTML, CSS, JavaScript, Bootstrap) | Skilled in DBMS (MySQL,SQL) | Passionate About AI & Machine Learning | Open to Internships & Opportunities.</p>
+<p>🚀 I love coding and helping others! help build impactful software for the future.</p>
+</div>
 
 ---
 
