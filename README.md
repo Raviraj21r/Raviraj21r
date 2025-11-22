@@ -2,13 +2,20 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://github.com/user-attachments/assets/96be971d-d004-4899-ba1a-b4cd80a206d4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj21a&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj21a" /> </p>
-
 - 📫 How to reach me **ravikrsingho68068@gmail.com**
+
+<a href="https://raviraj21r.github.io/profilio/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" height="32" width="32" />
+</a>
+<a href="https://raviraj21r.github.io/profilio/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/456/456212.png" height="32" width="32" style="filter: hue-rotate(330deg) brightness(1.5);" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/ravi-kumar-2b3284358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/mrraviraj9297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviraj9297" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +35,12 @@
 
 ---
 
-<h2 style="color:#64ffda;text-align:center;margin-top:40px;">🌟 About Me</h2>
+<h2 style="color:#64ffda;text-align:center;margin-top:40px;">
+  <a href="https://raviraj21r.github.io/profilio/" target="_blank" style="color:#64ffda; text-decoration:none;">
+    🌟 About Me
+  </a>
+</h2>
+
 
 <div style="background:#112240;padding:20px;border-radius:15px;margin-top:10px;box-shadow:0 0 10px rgba(100,255,218,0.2);text-align:center;">
 <p>💻 🌱 Data Science| DSA (Python & C++) | Web Designer & Frontend Developer (HTML, CSS, JavaScript, Bootstrap) | Skilled in DBMS (MySQL,SQL) | Passionate About AI & Machine Learning | Open to Internships & Opportunities.</p>
@@ -69,10 +81,14 @@
 </td>
 <td>
 <ul>
-<li>🌐 Designed responsive websites</li>
-<li>💻 Built interactive UI using CSS</li>
-<li>📱 Worked with Bootstrap Grid system</li>
-<li>⚙️ Practiced clean code and structure</li>
+<li>🧠 Strong understanding of AI & Machine Learning fundamentals</li>
+<li>🔢 Good knowledge of Data Structures & Algorithms (DSA)</li>
+<li>💾 Worked with DBMS concepts like SQL, joins, and normalization</li>
+<li>💻 Skilled in C++ programming and problem-solving</li>
+<li>🌐 Developed responsive and mobile-first web pages</li>
+<li>🎨 Built attractive and interactive UI using HTML, CSS, JavaScript</li>
+<li>📱 Designed layouts using the Bootstrap Grid System</li>
+<li>⚙️ Followed clean code, structured design, and best practices</li>
 </ul>
 </td>
 </tr>
@@ -93,7 +109,7 @@
 ### 💼 Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| 🌐 Portfolio | Personal responsive website | [View](https://github.com/Raviraj21r/portfolio) |
+| 🌐 Portfolio | Personal responsive website | [View](https://raviraj21r.github.io/profilio/) |
 | 💾 DBMS Mini Project | Student Record System | [View](https://github.com/Raviraj21r/dbms-project) |
 | ⚙️ OS Simulation | Process Scheduling | [View](https://github.com/Raviraj21r/os-simulator) |
 
